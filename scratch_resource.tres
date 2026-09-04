@@ -1,0 +1,6 @@
+[gd_resource type="Resource" script_class="ScratchResource" format=3 uid="uid://djycx0u4no6ey"]
+
+[ext_resource type="Script" uid="uid://ytu10tp70wk5" path="res://scratch_resource.gd" id="1_g5ko2"]
+
+[resource]
+script = ExtResource("1_g5ko2")
